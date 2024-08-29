@@ -1,0 +1,1 @@
+这是FG42deoge-wiki的页面信息控制系统，不参与历史版本列表,这里有一些javascript文件
